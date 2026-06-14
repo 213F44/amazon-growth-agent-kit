@@ -1,0 +1,6 @@
+search_term,match_type,spend,sales,orders,clicks
+cheap cable,broad,35.00,0,0,42
+fast charging travel adapter,phrase,20.00,180.00,6,50
+usb c adapter,broad,12.00,35.00,1,44
+65w usb c charger,exact,14.00,140.00,4,38
+phone charger for travel,broad,28.00,42.00,1,55
