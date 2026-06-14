@@ -71,12 +71,6 @@ amazon_growth_agent_kit/
 5. `creative_brief_skill`：把运营洞察转成主图、场景图、短视频和 AI prompt brief。
 6. `weekly_growth_report_skill`：把所有 Skill 输出整理成周度增长报告和行动清单。
 
-## 面试讲法
-
-可以这样解释这个项目：
-
-“我把 Amazon 广告优化拆成了可复用 Skill。广告诊断 Skill 负责判断指标异常，搜索词 Skill 负责否词和扩词，Listing Skill 判断广告流量能不能被详情页承接，评论 Skill 提炼用户语言，Creative Skill 把这些洞察转成 AI 素材生产 brief。Agent 不做复杂判断，只负责读取数据、编排 Skill、输出报告。后续如果接入 OpenClaw，可以把每个 Skill 改成独立工具，再加真实报表读取、权限控制和人工确认节点。”
-
 ## 后续可扩展
 
 - 接入真实 Amazon Ads API 或第三方报表。
